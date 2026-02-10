@@ -1,5 +1,3 @@
-# eks-migration-manifests
-
 # EKS Client Migration Manifests
 
 This repository contains reusable Kubernetes manifests for quickly migrating client applications to AWS EKS.
